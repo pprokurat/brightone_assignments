@@ -1,0 +1,4 @@
+Elementy o parzystej iloœci jedynek: (kolejnoœæ rosn¹ca)
+       00100001 01010110 10011100 
+Elementy o nieparzystej iloœci jedynek: (kolejnoœæ malej¹ca)
+11111110 11010101 10010111 10000000 01011000 01010111 01010100    
