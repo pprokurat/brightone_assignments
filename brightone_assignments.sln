@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assignment1", "brightone_assignments\brightone_assignments.vcxproj", "{FBDB52B7-3F45-453B-A48F-89AA418F1B24}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assignment1", "assignment1\assignment1.vcxproj", "{FBDB52B7-3F45-453B-A48F-89AA418F1B24}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assignment2", "assignment2\assignment2.vcxproj", "{28489DE5-48F8-4673-8EE3-9EE708490588}"
 EndProject
